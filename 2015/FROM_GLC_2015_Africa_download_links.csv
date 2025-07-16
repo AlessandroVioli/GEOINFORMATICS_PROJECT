@@ -1,0 +1,7 @@
+region,year,map_name,map_year,type,url,request_headers
+Africa,2015,FROM_GLC,2015,URL,https://data-starcloud.pcl.ac.cn/api/en/resourceFile/download/3/1714118541778960410,FROM_GLC_Headers
+Africa,2015,FROM_GLC,2015,URL,https://data-starcloud.pcl.ac.cn/api/en/resourceFile/download/3/1714118541787349028,FROM_GLC_Headers
+Africa,2015,FROM_GLC,2015,URL,https://data-starcloud.pcl.ac.cn/api/en/resourceFile/download/3/1714118541762183217,FROM_GLC_Headers
+Africa,2015,FROM_GLC,2015,URL,https://data-starcloud.pcl.ac.cn/api/en/resourceFile/download/3/1714118541770571827,FROM_GLC_Headers
+Africa,2015,FROM_GLC,2015,URL,https://data-starcloud.pcl.ac.cn/api/en/resourceFile/download/3/1714118541783154697,FROM_GLC_Headers
+Africa,2015,FROM_GLC,2015,URL,https://data-starcloud.pcl.ac.cn/api/en/resourceFile/download/3/1714118541766377547,FROM_GLC_Headers

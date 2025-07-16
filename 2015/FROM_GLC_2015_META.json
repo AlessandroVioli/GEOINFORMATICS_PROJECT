@@ -1,0 +1,3102 @@
+[
+    {
+        "id": "1714118541762183211",
+        "name": "000E40N.tif",
+        "fileSizeName": "54.77 MB",
+        "fileSize": 57426347,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541766377488",
+        "name": "000E60N.tif",
+        "fileSizeName": "56.95 MB",
+        "fileSize": 59720112,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541762183193",
+        "name": "000E70N.tif",
+        "fileSizeName": "30.29 MB",
+        "fileSize": 31762585,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541762183188",
+        "name": "010E10N.tif",
+        "fileSizeName": "76.82 MB",
+        "fileSize": 80546427,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541766377493",
+        "name": "010E10S.tif",
+        "fileSizeName": "93.68 MB",
+        "fileSize": 98226813,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541766377474",
+        "name": "010E20S.tif",
+        "fileSizeName": "50.41 MB",
+        "fileSize": 52861212,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541762183213",
+        "name": "010E30S.tif",
+        "fileSizeName": "21.86 MB",
+        "fileSize": 22916783,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541757988877",
+        "name": "010E60N.tif",
+        "fileSizeName": "83.04 MB",
+        "fileSize": 87076465,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541757988870",
+        "name": "010W10N.tif",
+        "fileSizeName": "87.83 MB",
+        "fileSize": 92092582,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541762183175",
+        "name": "010W10S.tif",
+        "fileSizeName": "10.47 MB",
+        "fileSize": 10979126,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541757988887",
+        "name": "010W40N.tif",
+        "fileSizeName": "94.60 MB",
+        "fileSize": 99198084,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541757988896",
+        "name": "010W50N.tif",
+        "fileSizeName": "82.83 MB",
+        "fileSize": 86855407,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541762183201",
+        "name": "010W60N.tif",
+        "fileSizeName": "46.83 MB",
+        "fileSize": 49109422,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541762183181",
+        "name": "020E80N.tif",
+        "fileSizeName": "32.67 MB",
+        "fileSize": 34260058,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541766377490",
+        "name": "020E84N.tif",
+        "fileSizeName": "5.39 MB",
+        "fileSize": 5650402,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541762183189",
+        "name": "020W20N.tif",
+        "fileSizeName": "67.36 MB",
+        "fileSize": 70634578,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541766377480",
+        "name": "020W60N.tif",
+        "fileSizeName": "10.69 MB",
+        "fileSize": 11210032,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541762183191",
+        "name": "030E10S.tif",
+        "fileSizeName": "129.92 MB",
+        "fileSize": 136233785,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541757988878",
+        "name": "030E30N.tif",
+        "fileSizeName": "16.94 MB",
+        "fileSize": 17760247,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541762183190",
+        "name": "030E30S.tif",
+        "fileSizeName": "11.88 MB",
+        "fileSize": 12452868,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541757988874",
+        "name": "030E80N.tif",
+        "fileSizeName": "20.60 MB",
+        "fileSize": 21605628,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541762183176",
+        "name": "030W40N.tif",
+        "fileSizeName": "11.13 MB",
+        "fileSize": 11665954,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541757988883",
+        "name": "030W70N.tif",
+        "fileSizeName": "28.65 MB",
+        "fileSize": 30038916,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541757988892",
+        "name": "030W84N.tif",
+        "fileSizeName": "10.37 MB",
+        "fileSize": 10875601,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541766377511",
+        "name": "040E10S.tif",
+        "fileSizeName": "67.21 MB",
+        "fileSize": 70471395,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541762183217",
+        "name": "040E20N.tif",
+        "fileSizeName": "39.64 MB",
+        "fileSize": 41568764,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541762183177",
+        "name": "040E30N.tif",
+        "fileSizeName": "14.84 MB",
+        "fileSize": 15563047,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541762183182",
+        "name": "040E60N.tif",
+        "fileSizeName": "75.33 MB",
+        "fileSize": 78988334,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541757988885",
+        "name": "040E70N.tif",
+        "fileSizeName": "45.20 MB",
+        "fileSize": 47396693,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541757988871",
+        "name": "040W70N.tif",
+        "fileSizeName": "25.83 MB",
+        "fileSize": 27081423,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541757988867",
+        "name": "040W80N.tif",
+        "fileSizeName": "10.67 MB",
+        "fileSize": 11188482,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541757988894",
+        "name": "050E20N.tif",
+        "fileSizeName": "12.94 MB",
+        "fileSize": 13567410,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541762183192",
+        "name": "050E60N.tif",
+        "fileSizeName": "63.68 MB",
+        "fileSize": 66770766,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541757988864",
+        "name": "050E80N.tif",
+        "fileSizeName": "34.91 MB",
+        "fileSize": 36605441,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541757988881",
+        "name": "050W20S.tif",
+        "fileSizeName": "68.96 MB",
+        "fileSize": 72312760,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541766377501",
+        "name": "050W60N.tif",
+        "fileSizeName": "10.73 MB",
+        "fileSize": 11247363,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541762183209",
+        "name": "060E30N.tif",
+        "fileSizeName": "32.90 MB",
+        "fileSize": 34503068,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541762183173",
+        "name": "060E50N.tif",
+        "fileSizeName": "51.82 MB",
+        "fileSize": 54338763,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541757988895",
+        "name": "060E60N.tif",
+        "fileSizeName": "74.09 MB",
+        "fileSize": 77687039,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541766377495",
+        "name": "060E70N.tif",
+        "fileSizeName": "69.72 MB",
+        "fileSize": 73110408,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541757988865",
+        "name": "060E80N.tif",
+        "fileSizeName": "35.60 MB",
+        "fileSize": 37330832,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541762183185",
+        "name": "060E84N.tif",
+        "fileSizeName": "6.98 MB",
+        "fileSize": 7321457,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541762183180",
+        "name": "060W00N.tif",
+        "fileSizeName": "46.91 MB",
+        "fileSize": 49183631,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541762183178",
+        "name": "060W20N.tif",
+        "fileSizeName": "10.59 MB",
+        "fileSize": 11101032,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541757988891",
+        "name": "060W20S.tif",
+        "fileSizeName": "136.30 MB",
+        "fileSize": 142923740,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541757988890",
+        "name": "060W50N.tif",
+        "fileSizeName": "24.64 MB",
+        "fileSize": 25841654,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541757988897",
+        "name": "060W60N.tif",
+        "fileSizeName": "25.93 MB",
+        "fileSize": 27185573,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541757988868",
+        "name": "070E20N.tif",
+        "fileSizeName": "98.06 MB",
+        "fileSize": 102827285,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541766377513",
+        "name": "070E30N.tif",
+        "fileSizeName": "137.90 MB",
+        "fileSize": 144603154,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541762183172",
+        "name": "070E40N.tif",
+        "fileSizeName": "105.93 MB",
+        "fileSize": 111072977,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541766377484",
+        "name": "070E50N.tif",
+        "fileSizeName": "71.06 MB",
+        "fileSize": 74512362,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541762183194",
+        "name": "070E70N.tif",
+        "fileSizeName": "86.52 MB",
+        "fileSize": 90720246,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541766377497",
+        "name": "070W40S.tif",
+        "fileSizeName": "43.42 MB",
+        "fileSize": 45532362,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541762183179",
+        "name": "070W50N.tif",
+        "fileSizeName": "34.28 MB",
+        "fileSize": 35940287,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541766377509",
+        "name": "070W50S.tif",
+        "fileSizeName": "17.93 MB",
+        "fileSize": 18802049,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541762183197",
+        "name": "070W70N.tif",
+        "fileSizeName": "60.84 MB",
+        "fileSize": 63796178,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541762183168",
+        "name": "070W80N.tif",
+        "fileSizeName": "31.28 MB",
+        "fileSize": 32802955,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541757988869",
+        "name": "080E70N.tif",
+        "fileSizeName": "70.67 MB",
+        "fileSize": 74100717,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541757988873",
+        "name": "080W00N.tif",
+        "fileSizeName": "44.68 MB",
+        "fileSize": 46854175,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541757988888",
+        "name": "080W10N.tif",
+        "fileSizeName": "72.21 MB",
+        "fileSize": 75718202,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541766377472",
+        "name": "080W10S.tif",
+        "fileSizeName": "40.75 MB",
+        "fileSize": 42726022,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541766377491",
+        "name": "080W20N.tif",
+        "fileSizeName": "35.12 MB",
+        "fileSize": 36824366,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541757988884",
+        "name": "080W20S.tif",
+        "fileSizeName": "11.46 MB",
+        "fileSize": 12019692,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541762183196",
+        "name": "080W40N.tif",
+        "fileSizeName": "41.03 MB",
+        "fileSize": 43020301,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541762183169",
+        "name": "080W50S.tif",
+        "fileSizeName": "27.07 MB",
+        "fileSize": 28385686,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541762183199",
+        "name": "080W70N.tif",
+        "fileSizeName": "57.69 MB",
+        "fileSize": 60493679,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541766377476",
+        "name": "090E20N.tif",
+        "fileSizeName": "49.41 MB",
+        "fileSize": 51813974,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541757988880",
+        "name": "090W50N.tif",
+        "fileSizeName": "85.74 MB",
+        "fileSize": 89902811,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541757988875",
+        "name": "090W60N.tif",
+        "fileSizeName": "86.21 MB",
+        "fileSize": 90392765,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541762183195",
+        "name": "090W80N.tif",
+        "fileSizeName": "49.32 MB",
+        "fileSize": 51711946,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541766377482",
+        "name": "100E30N.tif",
+        "fileSizeName": "149.96 MB",
+        "fileSize": 157239492,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541762183174",
+        "name": "100E60N.tif",
+        "fileSizeName": "57.85 MB",
+        "fileSize": 60659262,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541762183198",
+        "name": "100W30N.tif",
+        "fileSizeName": "57.47 MB",
+        "fileSize": 60264409,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541766377507",
+        "name": "100W80N.tif",
+        "fileSizeName": "43.55 MB",
+        "fileSize": 45667070,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541766377515",
+        "name": "110E00N.tif",
+        "fileSizeName": "52.79 MB",
+        "fileSize": 55351978,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541766377499",
+        "name": "110E10N.tif",
+        "fileSizeName": "37.71 MB",
+        "fileSize": 39538322,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541757988876",
+        "name": "110E30S.tif",
+        "fileSizeName": "33.38 MB",
+        "fileSize": 35001067,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541762183203",
+        "name": "110E40N.tif",
+        "fileSizeName": "125.28 MB",
+        "fileSize": 131369054,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541757988889",
+        "name": "110E60N.tif",
+        "fileSizeName": "89.59 MB",
+        "fileSize": 93946392,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541766377505",
+        "name": "110W30N.tif",
+        "fileSizeName": "142.96 MB",
+        "fileSize": 149904767,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541762183186",
+        "name": "120E20N.tif",
+        "fileSizeName": "32.21 MB",
+        "fileSize": 33774517,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541762183184",
+        "name": "120E20S.tif",
+        "fileSizeName": "67.57 MB",
+        "fileSize": 70856606,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541762183171",
+        "name": "120E50N.tif",
+        "fileSizeName": "100.36 MB",
+        "fileSize": 105238688,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541762183219",
+        "name": "120W70N.tif",
+        "fileSizeName": "85.32 MB",
+        "fileSize": 89465693,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541762183187",
+        "name": "120W80N.tif",
+        "fileSizeName": "48.55 MB",
+        "fileSize": 50911123,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541762183221",
+        "name": "130E00N.tif",
+        "fileSizeName": "20.81 MB",
+        "fileSize": 21821121,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541766377503",
+        "name": "130E30S.tif",
+        "fileSizeName": "42.13 MB",
+        "fileSize": 44175507,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541762183205",
+        "name": "130E50N.tif",
+        "fileSizeName": "39.92 MB",
+        "fileSize": 41854485,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541757988866",
+        "name": "130W50N.tif",
+        "fileSizeName": "42.11 MB",
+        "fileSize": 44156513,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541762183215",
+        "name": "130W60N.tif",
+        "fileSizeName": "77.89 MB",
+        "fileSize": 81671418,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541757988872",
+        "name": "130W80N.tif",
+        "fileSizeName": "34.16 MB",
+        "fileSize": 35822135,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541762183170",
+        "name": "140E50N.tif",
+        "fileSizeName": "22.28 MB",
+        "fileSize": 23365903,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541757988893",
+        "name": "140E60N.tif",
+        "fileSizeName": "23.84 MB",
+        "fileSize": 24994128,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541757988886",
+        "name": "150E50S.tif",
+        "fileSizeName": "10.43 MB",
+        "fileSize": 10939339,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541766377486",
+        "name": "160E40S.tif",
+        "fileSizeName": "20.96 MB",
+        "fileSize": 21979526,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541757988882",
+        "name": "160E70N.tif",
+        "fileSizeName": "70.63 MB",
+        "fileSize": 74060745,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541757988879",
+        "name": "170E30S.tif",
+        "fileSizeName": "21.41 MB",
+        "fileSize": 22453404,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541762183207",
+        "name": "170E40S.tif",
+        "fileSizeName": "25.83 MB",
+        "fileSize": 27081444,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541766377478",
+        "name": "170E60N.tif",
+        "fileSizeName": "18.51 MB",
+        "fileSize": 19403935,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541762183183",
+        "name": "170E70N.tif",
+        "fileSizeName": "45.95 MB",
+        "fileSize": 48178015,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541770571831",
+        "name": "000E10N.tif",
+        "fileSizeName": "79.16 MB",
+        "fileSize": 83008290,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541770571777",
+        "name": "000E20N.tif",
+        "fileSizeName": "95.64 MB",
+        "fileSize": 100282630,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541774766081",
+        "name": "010E00N.tif",
+        "fileSizeName": "75.62 MB",
+        "fileSize": 79289479,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541778960388",
+        "name": "010E20N.tif",
+        "fileSizeName": "58.01 MB",
+        "fileSize": 60823630,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541770571806",
+        "name": "010E40N.tif",
+        "fileSizeName": "23.99 MB",
+        "fileSize": 25151688,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541774766130",
+        "name": "010E50N.tif",
+        "fileSizeName": "105.83 MB",
+        "fileSize": 110968184,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541774766116",
+        "name": "010E70N.tif",
+        "fileSizeName": "74.92 MB",
+        "fileSize": 78559324,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541770571791",
+        "name": "010E84N.tif",
+        "fileSizeName": "7.03 MB",
+        "fileSize": 7373361,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541770571795",
+        "name": "010W20N.tif",
+        "fileSizeName": "107.74 MB",
+        "fileSize": 112973339,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541770571829",
+        "name": "010W80N.tif",
+        "fileSizeName": "11.71 MB",
+        "fileSize": 12282763,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541770571827",
+        "name": "020E10N.tif",
+        "fileSizeName": "67.81 MB",
+        "fileSize": 71099666,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541774766136",
+        "name": "020E10S.tif",
+        "fileSizeName": "121.12 MB",
+        "fileSize": 127003561,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541774766138",
+        "name": "020E20S.tif",
+        "fileSizeName": "99.05 MB",
+        "fileSize": 103858835,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541770571833",
+        "name": "020E30N.tif",
+        "fileSizeName": "10.99 MB",
+        "fileSize": 11521461,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541774766140",
+        "name": "020E40N.tif",
+        "fileSizeName": "48.28 MB",
+        "fileSize": 50625296,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541766377521",
+        "name": "020E60N.tif",
+        "fileSizeName": "88.21 MB",
+        "fileSize": 92493731,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541774766142",
+        "name": "020W40N.tif",
+        "fileSizeName": "11.00 MB",
+        "fileSize": 11533920,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541766377545",
+        "name": "020W70N.tif",
+        "fileSizeName": "25.29 MB",
+        "fileSize": 26523143,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541766377531",
+        "name": "020W84N.tif",
+        "fileSizeName": "5.44 MB",
+        "fileSize": 5707829,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541766377525",
+        "name": "030E20S.tif",
+        "fileSizeName": "58.60 MB",
+        "fileSize": 61449260,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541770571781",
+        "name": "030E40N.tif",
+        "fileSizeName": "78.77 MB",
+        "fileSize": 82593880,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541770571823",
+        "name": "030E84N.tif",
+        "fileSizeName": "10.70 MB",
+        "fileSize": 11216607,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541770571839",
+        "name": "030W80N.tif",
+        "fileSizeName": "40.47 MB",
+        "fileSize": 42438003,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541766377547",
+        "name": "040E10N.tif",
+        "fileSizeName": "50.62 MB",
+        "fileSize": 53082087,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541774766082",
+        "name": "040E84N.tif",
+        "fileSizeName": "12.79 MB",
+        "fileSize": 13413112,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541766377533",
+        "name": "040W84N.tif",
+        "fileSizeName": "6.97 MB",
+        "fileSize": 7309228,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541766377523",
+        "name": "050E00N.tif",
+        "fileSizeName": "10.49 MB",
+        "fileSize": 11000207,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541778960390",
+        "name": "050E10N.tif",
+        "fileSizeName": "11.80 MB",
+        "fileSize": 12368122,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541774766147",
+        "name": "050E20S.tif",
+        "fileSizeName": "11.27 MB",
+        "fileSize": 11817073,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541766377517",
+        "name": "050E70N.tif",
+        "fileSizeName": "43.82 MB",
+        "fileSize": 45947747,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541774766088",
+        "name": "050W10S.tif",
+        "fileSizeName": "172.19 MB",
+        "fileSize": 180552726,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541770571785",
+        "name": "060E10S.tif",
+        "fileSizeName": "10.90 MB",
+        "fileSize": 11424801,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541774766153",
+        "name": "060E40N.tif",
+        "fileSizeName": "72.04 MB",
+        "fileSize": 75542990,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541774766151",
+        "name": "060W10S.tif",
+        "fileSizeName": "121.20 MB",
+        "fileSize": 127091403,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541778960384",
+        "name": "070E00N.tif",
+        "fileSizeName": "10.52 MB",
+        "fileSize": 11029902,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541774766114",
+        "name": "070E10N.tif",
+        "fileSizeName": "16.21 MB",
+        "fileSize": 16996111,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541770571843",
+        "name": "070E60N.tif",
+        "fileSizeName": "63.95 MB",
+        "fileSize": 67056742,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541774766126",
+        "name": "070E80N.tif",
+        "fileSizeName": "24.31 MB",
+        "fileSize": 25495539,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541770571837",
+        "name": "070E84N.tif",
+        "fileSizeName": "6.39 MB",
+        "fileSize": 6702518,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541774766102",
+        "name": "070W00N.tif",
+        "fileSizeName": "31.86 MB",
+        "fileSize": 33410456,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541774766110",
+        "name": "070W10N.tif",
+        "fileSizeName": "60.55 MB",
+        "fileSize": 63495277,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541770571851",
+        "name": "070W10S.tif",
+        "fileSizeName": "86.29 MB",
+        "fileSize": 90476896,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541766377541",
+        "name": "070W40N.tif",
+        "fileSizeName": "10.58 MB",
+        "fileSize": 11097851,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541774766124",
+        "name": "070W60N.tif",
+        "fileSizeName": "91.81 MB",
+        "fileSize": 96268895,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541770571825",
+        "name": "070W84N.tif",
+        "fileSizeName": "9.63 MB",
+        "fileSize": 10099144,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541774766155",
+        "name": "080E10N.tif",
+        "fileSizeName": "18.28 MB",
+        "fileSize": 19173164,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541774766120",
+        "name": "080E50N.tif",
+        "fileSizeName": "63.27 MB",
+        "fileSize": 66343941,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541774766132",
+        "name": "080W30N.tif",
+        "fileSizeName": "23.43 MB",
+        "fileSize": 24573066,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541770571783",
+        "name": "080W30S.tif",
+        "fileSizeName": "42.27 MB",
+        "fileSize": 44328414,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541770571819",
+        "name": "080W40S.tif",
+        "fileSizeName": "50.18 MB",
+        "fileSize": 52619372,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541770571793",
+        "name": "080W50N.tif",
+        "fileSizeName": "90.75 MB",
+        "fileSize": 95157977,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541770571803",
+        "name": "080W60N.tif",
+        "fileSizeName": "95.38 MB",
+        "fileSize": 100009805,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541774766104",
+        "name": "080W80N.tif",
+        "fileSizeName": "52.64 MB",
+        "fileSize": 55199965,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541778960386",
+        "name": "090E00N.tif",
+        "fileSizeName": "10.82 MB",
+        "fileSize": 11345217,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541770571847",
+        "name": "090E30N.tif",
+        "fileSizeName": "114.55 MB",
+        "fileSize": 120117104,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541770571841",
+        "name": "090E40N.tif",
+        "fileSizeName": "72.04 MB",
+        "fileSize": 75536587,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541766377549",
+        "name": "090E50N.tif",
+        "fileSizeName": "31.16 MB",
+        "fileSize": 32673339,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541774766084",
+        "name": "090E70N.tif",
+        "fileSizeName": "72.34 MB",
+        "fileSize": 75856563,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541770571817",
+        "name": "090E80N.tif",
+        "fileSizeName": "44.74 MB",
+        "fileSize": 46914669,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541770571821",
+        "name": "090W20N.tif",
+        "fileSizeName": "53.31 MB",
+        "fileSize": 55903612,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541766377519",
+        "name": "090W40N.tif",
+        "fileSizeName": "122.09 MB",
+        "fileSize": 128024585,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541770571815",
+        "name": "090W70N.tif",
+        "fileSizeName": "51.87 MB",
+        "fileSize": 54389999,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541770571801",
+        "name": "100E10N.tif",
+        "fileSizeName": "39.00 MB",
+        "fileSize": 40896096,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541766377537",
+        "name": "100E20N.tif",
+        "fileSizeName": "106.88 MB",
+        "fileSize": 112066875,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541774766118",
+        "name": "100W00N.tif",
+        "fileSizeName": "10.97 MB",
+        "fileSize": 11503828,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541770571845",
+        "name": "100W40N.tif",
+        "fileSizeName": "130.61 MB",
+        "fileSize": 136959727,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541770571805",
+        "name": "100W60N.tif",
+        "fileSizeName": "80.61 MB",
+        "fileSize": 84524566,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541770571853",
+        "name": "110E10S.tif",
+        "fileSizeName": "10.50 MB",
+        "fileSize": 11009715,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541770571835",
+        "name": "110E20N.tif",
+        "fileSizeName": "13.76 MB",
+        "fileSize": 14429679,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541770571799",
+        "name": "110E70N.tif",
+        "fileSizeName": "70.39 MB",
+        "fileSize": 73812969,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541774766090",
+        "name": "110W60N.tif",
+        "fileSizeName": "109.06 MB",
+        "fileSize": 114356487,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541770571779",
+        "name": "110W70N.tif",
+        "fileSizeName": "79.12 MB",
+        "fileSize": 82965802,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541774766094",
+        "name": "110W84N.tif",
+        "fileSizeName": "4.54 MB",
+        "fileSize": 4765662,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541774766098",
+        "name": "120E00N.tif",
+        "fileSizeName": "27.27 MB",
+        "fileSize": 28592418,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541766377529",
+        "name": "120E30N.tif",
+        "fileSizeName": "21.32 MB",
+        "fileSize": 22351207,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541774766092",
+        "name": "120E60N.tif",
+        "fileSizeName": "72.39 MB",
+        "fileSize": 75902990,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541766377539",
+        "name": "120E70N.tif",
+        "fileSizeName": "85.59 MB",
+        "fileSize": 89750805,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541774766122",
+        "name": "120W30N.tif",
+        "fileSizeName": "25.79 MB",
+        "fileSize": 27041796,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541774766143",
+        "name": "120W40N.tif",
+        "fileSizeName": "98.39 MB",
+        "fileSize": 103166212,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541770571789",
+        "name": "120W50N.tif",
+        "fileSizeName": "94.57 MB",
+        "fileSize": 99159212,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541770571810",
+        "name": "120W60N.tif",
+        "fileSizeName": "86.43 MB",
+        "fileSize": 90623921,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541770571787",
+        "name": "130E60N.tif",
+        "fileSizeName": "67.97 MB",
+        "fileSize": 71270845,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541770571797",
+        "name": "130E70N.tif",
+        "fileSizeName": "96.83 MB",
+        "fileSize": 101531821,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541774766128",
+        "name": "130W40N.tif",
+        "fileSizeName": "27.36 MB",
+        "fileSize": 28692438,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541766377551",
+        "name": "130W70N.tif",
+        "fileSizeName": "81.47 MB",
+        "fileSize": 85424311,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541770571813",
+        "name": "140E20S.tif",
+        "fileSizeName": "103.54 MB",
+        "fileSize": 108569503,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541774766145",
+        "name": "140E40N.tif",
+        "fileSizeName": "15.47 MB",
+        "fileSize": 16221381,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541774766106",
+        "name": "140E70N.tif",
+        "fileSizeName": "108.95 MB",
+        "fileSize": 114246603,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541770571808",
+        "name": "140W70N.tif",
+        "fileSizeName": "86.79 MB",
+        "fileSize": 91004926,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541774766100",
+        "name": "150E00N.tif",
+        "fileSizeName": "12.69 MB",
+        "fileSize": 13303787,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541774766108",
+        "name": "150E20S.tif",
+        "fileSizeName": "33.67 MB",
+        "fileSize": 35310416,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541766377535",
+        "name": "150E70N.tif",
+        "fileSizeName": "96.41 MB",
+        "fileSize": 101091352,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541766377527",
+        "name": "150E80N.tif",
+        "fileSizeName": "26.99 MB",
+        "fileSize": 28299855,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541774766134",
+        "name": "150W70N.tif",
+        "fileSizeName": "80.75 MB",
+        "fileSize": 84669070,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541774766149",
+        "name": "160W60N.tif",
+        "fileSizeName": "30.03 MB",
+        "fileSize": 31493125,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541766377543",
+        "name": "160W80N.tif",
+        "fileSizeName": "21.06 MB",
+        "fileSize": 22078311,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541774766086",
+        "name": "170E80N.tif",
+        "fileSizeName": "19.79 MB",
+        "fileSize": 20753404,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541774766112",
+        "name": "170W60N.tif",
+        "fileSizeName": "17.80 MB",
+        "fileSize": 18666719,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541774766096",
+        "name": "170W70N.tif",
+        "fileSizeName": "43.76 MB",
+        "fileSize": 45889952,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541770571849",
+        "name": "170W80N.tif",
+        "fileSizeName": "15.62 MB",
+        "fileSize": 16374968,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541778960408",
+        "name": "000E00N.tif",
+        "fileSizeName": "11.24 MB",
+        "fileSize": 11789825,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541783154746",
+        "name": "000E30N.tif",
+        "fileSizeName": "11.41 MB",
+        "fileSize": 11963018,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541783154722",
+        "name": "000E50N.tif",
+        "fileSizeName": "102.11 MB",
+        "fileSize": 107065253,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541787349000",
+        "name": "010E30N.tif",
+        "fileSizeName": "11.97 MB",
+        "fileSize": 12549417,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541783154718",
+        "name": "010E80N.tif",
+        "fileSizeName": "20.91 MB",
+        "fileSize": 21924419,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541778960426",
+        "name": "010W30N.tif",
+        "fileSizeName": "12.26 MB",
+        "fileSize": 12857290,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541783154720",
+        "name": "010W70N.tif",
+        "fileSizeName": "11.03 MB",
+        "fileSize": 11566543,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541783154724",
+        "name": "020E00N.tif",
+        "fileSizeName": "90.67 MB",
+        "fileSize": 95073540,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541778960410",
+        "name": "020E20N.tif",
+        "fileSizeName": "57.96 MB",
+        "fileSize": 60770886,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541783154757",
+        "name": "020E30S.tif",
+        "fileSizeName": "59.04 MB",
+        "fileSize": 61910018,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541778960436",
+        "name": "020E50N.tif",
+        "fileSizeName": "112.77 MB",
+        "fileSize": 118246348,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541783154744",
+        "name": "020W10N.tif",
+        "fileSizeName": "24.93 MB",
+        "fileSize": 26138970,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541778960462",
+        "name": "020W30N.tif",
+        "fileSizeName": "12.92 MB",
+        "fileSize": 13549110,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541778960456",
+        "name": "020W80N.tif",
+        "fileSizeName": "35.57 MB",
+        "fileSize": 37294829,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541783154712",
+        "name": "030E00N.tif",
+        "fileSizeName": "137.06 MB",
+        "fileSize": 143720274,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541783154697",
+        "name": "030E10N.tif",
+        "fileSizeName": "138.24 MB",
+        "fileSize": 144958309,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541787349028",
+        "name": "030E20N.tif",
+        "fileSizeName": "99.90 MB",
+        "fileSize": 104755660,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541783154736",
+        "name": "030E50N.tif",
+        "fileSizeName": "75.13 MB",
+        "fileSize": 78783338,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541787349032",
+        "name": "030E60N.tif",
+        "fileSizeName": "80.38 MB",
+        "fileSize": 84285738,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541787349038",
+        "name": "030E70N.tif",
+        "fileSizeName": "60.70 MB",
+        "fileSize": 63652126,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541783154748",
+        "name": "030W20N.tif",
+        "fileSizeName": "11.22 MB",
+        "fileSize": 11761445,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541787348993",
+        "name": "040E00N.tif",
+        "fileSizeName": "11.92 MB",
+        "fileSize": 12498461,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541787349022",
+        "name": "040E20S.tif",
+        "fileSizeName": "47.07 MB",
+        "fileSize": 49353744,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541778960404",
+        "name": "040E40N.tif",
+        "fileSizeName": "86.57 MB",
+        "fileSize": 90776130,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541783154761",
+        "name": "040E50N.tif",
+        "fileSizeName": "83.75 MB",
+        "fileSize": 87821274,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541783154738",
+        "name": "040W00N.tif",
+        "fileSizeName": "49.27 MB",
+        "fileSize": 51658728,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541787349034",
+        "name": "040W10S.tif",
+        "fileSizeName": "28.14 MB",
+        "fileSize": 29508552,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541778960414",
+        "name": "040W40N.tif",
+        "fileSizeName": "11.77 MB",
+        "fileSize": 12340515,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541783154742",
+        "name": "050E10S.tif",
+        "fileSizeName": "11.42 MB",
+        "fileSize": 11979621,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541778960412",
+        "name": "050E30N.tif",
+        "fileSizeName": "21.67 MB",
+        "fileSize": 22720985,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541787349030",
+        "name": "050E40N.tif",
+        "fileSizeName": "40.11 MB",
+        "fileSize": 42053657,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541778960454",
+        "name": "050E50N.tif",
+        "fileSizeName": "38.14 MB",
+        "fileSize": 39997263,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541778960450",
+        "name": "050E84N.tif",
+        "fileSizeName": "11.79 MB",
+        "fileSize": 12364828,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541783154759",
+        "name": "050W00N.tif",
+        "fileSizeName": "116.42 MB",
+        "fileSize": 122073671,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541778960394",
+        "name": "050W10N.tif",
+        "fileSizeName": "10.80 MB",
+        "fileSize": 11320837,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541783154740",
+        "name": "050W70N.tif",
+        "fileSizeName": "24.18 MB",
+        "fileSize": 25356865,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541783154714",
+        "name": "050W84N.tif",
+        "fileSizeName": "6.39 MB",
+        "fileSize": 6704207,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541778960444",
+        "name": "060W10N.tif",
+        "fileSizeName": "23.99 MB",
+        "fileSize": 25157692,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541783154763",
+        "name": "060W30S.tif",
+        "fileSizeName": "52.23 MB",
+        "fileSize": 54768714,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541787349006",
+        "name": "060W50S.tif",
+        "fileSizeName": "11.00 MB",
+        "fileSize": 11532448,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541778960442",
+        "name": "060W70N.tif",
+        "fileSizeName": "38.03 MB",
+        "fileSize": 39881832,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541783154750",
+        "name": "060W80N.tif",
+        "fileSizeName": "30.06 MB",
+        "fileSize": 31515725,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541787348998",
+        "name": "060W84N.tif",
+        "fileSizeName": "6.41 MB",
+        "fileSize": 6726363,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541787349014",
+        "name": "070W20N.tif",
+        "fileSizeName": "24.68 MB",
+        "fileSize": 25881628,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541787349026",
+        "name": "070W20S.tif",
+        "fileSizeName": "84.69 MB",
+        "fileSize": 88808532,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541778960434",
+        "name": "080E20N.tif",
+        "fileSizeName": "31.54 MB",
+        "fileSize": 33074670,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541783154701",
+        "name": "080E40N.tif",
+        "fileSizeName": "37.92 MB",
+        "fileSize": 39766794,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541783154734",
+        "name": "080E60N.tif",
+        "fileSizeName": "77.87 MB",
+        "fileSize": 81649853,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541778960400",
+        "name": "080E80N.tif",
+        "fileSizeName": "27.82 MB",
+        "fileSize": 29170346,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541778960428",
+        "name": "080E84N.tif",
+        "fileSizeName": "8.34 MB",
+        "fileSize": 8742143,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541787349024",
+        "name": "080W84N.tif",
+        "fileSizeName": "9.79 MB",
+        "fileSize": 10265017,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541783154691",
+        "name": "090E10N.tif",
+        "fileSizeName": "28.48 MB",
+        "fileSize": 29867034,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541778960446",
+        "name": "090E60N.tif",
+        "fileSizeName": "59.96 MB",
+        "fileSize": 62875217,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541783154689",
+        "name": "090W00N.tif",
+        "fileSizeName": "17.57 MB",
+        "fileSize": 18423352,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541787349012",
+        "name": "090W10N.tif",
+        "fileSizeName": "17.55 MB",
+        "fileSize": 18399069,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541778960418",
+        "name": "090W30N.tif",
+        "fileSizeName": "35.75 MB",
+        "fileSize": 37487463,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541787349042",
+        "name": "090W84N.tif",
+        "fileSizeName": "8.59 MB",
+        "fileSize": 9009123,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541778960392",
+        "name": "100E00N.tif",
+        "fileSizeName": "48.78 MB",
+        "fileSize": 51148202,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541783154728",
+        "name": "100E40N.tif",
+        "fileSizeName": "116.72 MB",
+        "fileSize": 122385237,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541783154755",
+        "name": "100E50N.tif",
+        "fileSizeName": "40.31 MB",
+        "fileSize": 42264715,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541778960396",
+        "name": "100E70N.tif",
+        "fileSizeName": "74.94 MB",
+        "fileSize": 78579655,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541787348996",
+        "name": "100E80N.tif",
+        "fileSizeName": "53.08 MB",
+        "fileSize": 55654499,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541778960406",
+        "name": "100W20N.tif",
+        "fileSizeName": "66.14 MB",
+        "fileSize": 69355684,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541783154709",
+        "name": "100W50N.tif",
+        "fileSizeName": "113.24 MB",
+        "fileSize": 118737121,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541778960432",
+        "name": "100W70N.tif",
+        "fileSizeName": "70.92 MB",
+        "fileSize": 74364967,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541783154732",
+        "name": "100W84N.tif",
+        "fileSizeName": "5.67 MB",
+        "fileSize": 5946254,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541778960430",
+        "name": "110E20S.tif",
+        "fileSizeName": "62.78 MB",
+        "fileSize": 65828360,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541787349004",
+        "name": "110E30N.tif",
+        "fileSizeName": "103.41 MB",
+        "fileSize": 108431088,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541783154726",
+        "name": "110E50N.tif",
+        "fileSizeName": "71.39 MB",
+        "fileSize": 74862298,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541787349018",
+        "name": "110E80N.tif",
+        "fileSizeName": "41.56 MB",
+        "fileSize": 43580865,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541778960422",
+        "name": "110W40N.tif",
+        "fileSizeName": "138.04 MB",
+        "fileSize": 144746481,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541778960448",
+        "name": "110W50N.tif",
+        "fileSizeName": "96.57 MB",
+        "fileSize": 101257004,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541783154705",
+        "name": "110W80N.tif",
+        "fileSizeName": "39.18 MB",
+        "fileSize": 41087202,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541787349016",
+        "name": "120E10N.tif",
+        "fileSizeName": "26.64 MB",
+        "fileSize": 27938604,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541783154693",
+        "name": "120E10S.tif",
+        "fileSizeName": "53.64 MB",
+        "fileSize": 56247469,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541787349047",
+        "name": "120E30S.tif",
+        "fileSizeName": "33.30 MB",
+        "fileSize": 34922038,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541778960452",
+        "name": "120E40N.tif",
+        "fileSizeName": "42.77 MB",
+        "fileSize": 44842936,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541778960416",
+        "name": "120E80N.tif",
+        "fileSizeName": "33.47 MB",
+        "fileSize": 35097051,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541778960424",
+        "name": "120W20N.tif",
+        "fileSizeName": "10.52 MB",
+        "fileSize": 11026102,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541787349008",
+        "name": "130E10S.tif",
+        "fileSizeName": "79.00 MB",
+        "fileSize": 82837495,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541778960420",
+        "name": "130E20S.tif",
+        "fileSizeName": "72.11 MB",
+        "fileSize": 75610937,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541783154716",
+        "name": "130E40N.tif",
+        "fileSizeName": "29.01 MB",
+        "fileSize": 30414054,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541787349036",
+        "name": "130E80N.tif",
+        "fileSizeName": "38.22 MB",
+        "fileSize": 40073042,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541778960398",
+        "name": "140E00N.tif",
+        "fileSizeName": "27.44 MB",
+        "fileSize": 28774996,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541787349040",
+        "name": "140E10S.tif",
+        "fileSizeName": "43.80 MB",
+        "fileSize": 45926002,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541778960438",
+        "name": "140E30S.tif",
+        "fileSizeName": "84.81 MB",
+        "fileSize": 88929334,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541778960440",
+        "name": "140E40S.tif",
+        "fileSizeName": "18.32 MB",
+        "fileSize": 19214549,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541783154699",
+        "name": "140E80N.tif",
+        "fileSizeName": "38.58 MB",
+        "fileSize": 40454098,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541783154695",
+        "name": "140W80N.tif",
+        "fileSizeName": "13.74 MB",
+        "fileSize": 14404309,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541787349044",
+        "name": "150E10S.tif",
+        "fileSizeName": "10.79 MB",
+        "fileSize": 11315589,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541783154707",
+        "name": "150E30S.tif",
+        "fileSizeName": "21.65 MB",
+        "fileSize": 22704528,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541787349002",
+        "name": "150E50N.tif",
+        "fileSizeName": "12.47 MB",
+        "fileSize": 13078964,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541778960402",
+        "name": "150E60N.tif",
+        "fileSizeName": "39.41 MB",
+        "fileSize": 41321966,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541778960458",
+        "name": "150W60N.tif",
+        "fileSizeName": "11.12 MB",
+        "fileSize": 11665375,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541783154703",
+        "name": "150W80N.tif",
+        "fileSizeName": "20.14 MB",
+        "fileSize": 21119281,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541787349020",
+        "name": "160E80N.tif",
+        "fileSizeName": "18.76 MB",
+        "fileSize": 19667355,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541783154711",
+        "name": "160W70N.tif",
+        "fileSizeName": "78.79 MB",
+        "fileSize": 82613903,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541778960460",
+        "name": "180E60N.tif",
+        "fileSizeName": "11.09 MB",
+        "fileSize": 11627247,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541783154730",
+        "name": "180E70N.tif",
+        "fileSizeName": "12.38 MB",
+        "fileSize": 12976531,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541787349010",
+        "name": "180E80N.tif",
+        "fileSizeName": "11.78 MB",
+        "fileSize": 12347002,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541787349065",
+        "name": "020E70N.tif",
+        "fileSizeName": "80.48 MB",
+        "fileSize": 84388206,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541787349053",
+        "name": "050W80N.tif",
+        "fileSizeName": "10.61 MB",
+        "fileSize": 11127295,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541787349050",
+        "name": "070W30S.tif",
+        "fileSizeName": "94.07 MB",
+        "fileSize": 98636569,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541787349077",
+        "name": "080E30N.tif",
+        "fileSizeName": "128.08 MB",
+        "fileSize": 134299267,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541787349062",
+        "name": "090E84N.tif",
+        "fileSizeName": "8.22 MB",
+        "fileSize": 8614764,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541787349068",
+        "name": "100E10S.tif",
+        "fileSizeName": "10.44 MB",
+        "fileSize": 10947870,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541787349056",
+        "name": "100W10N.tif",
+        "fileSizeName": "10.53 MB",
+        "fileSize": 11044705,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541787349059",
+        "name": "110W20N.tif",
+        "fileSizeName": "26.26 MB",
+        "fileSize": 27534803,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541787349071",
+        "name": "140W60N.tif",
+        "fileSizeName": "35.14 MB",
+        "fileSize": 36849562,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    },
+    {
+        "id": "1714118541787349074",
+        "name": "160E60N.tif",
+        "fileSizeName": "28.98 MB",
+        "fileSize": 30388930,
+        "zipSize": 0,
+        "zipId": null,
+        "zipSizeName": null,
+        "resourceName": "FROM-GLC_2015v1"
+    }
+]
