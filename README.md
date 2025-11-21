@@ -5,16 +5,16 @@ Automated Downloader for Earth Observation Data: From Complex Search to Simple C
 
 Here are the Python libraries required to run this project. It’s recommended to create a virtual environment before installation.
 
-# Basic libraries
-numpy
-pandas
-geopandas
-shapely
-fiona
-pyproj
-rasterio
-rioxarray
-xarray
+## Basic libraries
+- numpy
+- pandas
+- geopandas
+- shapely
+- fiona
+- pyproj
+- rasterio
+- rioxarray
+- xarray
 
 # WebGIS / mapping / frontend-backend
 flask
